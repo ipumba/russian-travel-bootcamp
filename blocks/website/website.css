@@ -1,0 +1,15 @@
+.website {
+  margin: 0 auto;
+  min-width: 288px;
+  display: flex;
+  flex-direction: column;
+  max-width: 288px;
+  gap: 12px;
+  justify-content: flex-end;
+}
+
+@media screen and (min-width: 768px) {
+  .website {
+    min-width: 100%;
+  }
+}

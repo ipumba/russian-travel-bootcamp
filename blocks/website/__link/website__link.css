@@ -1,0 +1,11 @@
+.website__link {
+  max-width: 100%;
+  font-size: 18px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.website__link:hover{
+  transition: opacity .3s linear;
+  opacity: .8;
+  }

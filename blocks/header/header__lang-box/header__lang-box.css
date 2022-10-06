@@ -1,0 +1,6 @@
+.header__lang-box {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  justify-self: flex-end;
+}
