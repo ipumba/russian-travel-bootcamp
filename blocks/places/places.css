@@ -1,7 +1,7 @@
 .places {
   max-width: 320px;
   display: grid;
-  margin: 0;
+  margin: 0 auto;
   gap: 50px;
 }
 
@@ -15,15 +15,12 @@
   .places {
     max-width: 928px;
     gap: 80px;
-    margin: 0 auto;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .places {
     max-width: 984px;
-    gap: 80px;
-    margin: 0 auto;
   }
 }
 

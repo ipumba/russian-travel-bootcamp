@@ -2,5 +2,9 @@
   max-width: 100%;
   font-size: 12px;
   text-decoration: none;
+  color: #AAA;
+  line-height: 12px;
+  letter-spacing: 2px;
+  margin: 0;
 }
 
